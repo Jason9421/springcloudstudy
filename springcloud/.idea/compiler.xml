@@ -9,6 +9,7 @@
         <module name="eureka-server" />
         <module name="service-gateway" />
         <module name="service-hi" />
+        <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
   </component>
